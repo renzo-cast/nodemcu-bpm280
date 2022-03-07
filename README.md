@@ -1,1 +1,3 @@
-# esp8266-bpm280
+# nodemcu + bpm 280 + esphome
+
+A repository to store my [ESPHome](https://esphome.io/) configuration and circuit for my [BPM280](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/) temperature and barrometric pressure sensor.
