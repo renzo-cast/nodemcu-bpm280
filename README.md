@@ -2,5 +2,5 @@
 
 A repository to store my [ESPHome](https://esphome.io/) configuration and circuit for my [BPM280](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/) temperature and barrometric pressure sensor.
 
-![ciruit diagram](circuit/circuit.svg)
+![ciruit diagram](circuit/circuit.png)
 Circuit Diagram created with <https://www.circuit-diagram.org/editor/>
